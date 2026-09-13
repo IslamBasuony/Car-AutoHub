@@ -1,5 +1,7 @@
 # Car-AutoHub — Next.js rebuild
 
+**Live demo:** https://car-auto-hub.vercel.app/
+
 This is a Next.js (App Router) rebuild of the original **Car-Product-app**
 (originally Laravel + Blade + MySQL). Per request, this version has **no
 real backend** — no database, no auth, no file uploads to a server. All car
@@ -33,6 +35,8 @@ data lives in memory on the client.
   page refresh. Wire it up to an API route if you want persistence.
 
 ## Getting started
+
+Live URL: https://car-auto-hub.vercel.app/
 
 ```bash
 npm install
